@@ -10,7 +10,7 @@
   modified 2 Sep 2016  by Arturo Guadalupi
   modified 8 Sep 2016 by Colby Newman
   modified 19th Jan 2021 by Mary Loftus
-  modified 24th Jan 2023 by Lukasz Bebenek (proof of me being able to add this line of "code" (check ex. 6)) 
+  modified 24th Jan 2023 by Lukasz Bebenek 
 
   This example code is in the public domain.
   http://www.arduino.cc/en/Tutorial/BlinkErrors
